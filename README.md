@@ -17,4 +17,4 @@ This repository is meant to track my learning journey, showcase practical implem
 
 ## 📁 Repository Structure
 
-Each task is organized in a separate folder for clarity
+Each task is organized in a separate folder for clarity.
