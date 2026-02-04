@@ -1,13 +1,13 @@
 ================================================================================
 IPL FIELDING PERFORMANCE ANALYSIS REPORT
 ShadowFox Analytics
-Generated: 2025-11-09 21:33:38
+Generated: 2026-02-04 21:33:38
 ================================================================================
 
 PERFORMANCE SCORE FORMULA:
 --------------------------------------------------------------------------------
-PS = (CP×WCP) + (GT×WGT) + (C×WC) + (DC×WDC) + (ST×WST) +
-     (RO×WRO) + (MRO×WMRO) + (DH×WDH) + RS
+PS = (CPÃ—WCP) + (GTÃ—WGT) + (CÃ—WC) + (DCÃ—WDC) + (STÃ—WST) +
+     (ROÃ—WRO) + (MROÃ—WMRO) + (DHÃ—WDH) + RS
 
 WEIGHTS:
 --------------------------------------------------------------------------------
@@ -61,8 +61,8 @@ PLAYER RANKINGS:
 ================================================================================
 KEY INSIGHTS:
 --------------------------------------------------------------------------------
-• Best Performer: Yash Dhull (PS: 9)
-• Most Catches: Yash Dhull (2 catches)
-• Most Run Outs: Axer Patel (1 run outs)
+â€¢ Best Performer: Yash Dhull (PS: 9)
+â€¢ Most Catches: Yash Dhull (2 catches)
+â€¢ Most Run Outs: Axer Patel (1 run outs)
 
 ================================================================================
